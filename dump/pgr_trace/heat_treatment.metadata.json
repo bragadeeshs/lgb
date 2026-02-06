@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"98efb3b97b1c4509834761fc45d0cf49","collectionName":"heat_treatment","type":"collection"}
